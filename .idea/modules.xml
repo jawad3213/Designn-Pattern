@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design Pattern.iml" filepath="$PROJECT_DIR$/.idea/Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/OCP/After/OCPAfter.iml" filepath="$PROJECT_DIR$/SOLID/OCP/After/OCPAfter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/OCP/Before/OCPBefore.iml" filepath="$PROJECT_DIR$/SOLID/OCP/Before/OCPBefore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer DP/After/ObserverAfter.iml" filepath="$PROJECT_DIR$/Observer DP/After/ObserverAfter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer DP/Before/ObserverBefore.iml" filepath="$PROJECT_DIR$/Observer DP/Before/ObserverBefore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy DP/After/ProxyAfter.iml" filepath="$PROJECT_DIR$/Proxy DP/After/ProxyAfter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy DP/Before/ProxyBefore.iml" filepath="$PROJECT_DIR$/Proxy DP/Before/ProxyBefore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/SRP/After/SRPAfter.iml" filepath="$PROJECT_DIR$/SOLID/SRP/After/SRPAfter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/SRP/Before/SRPBefore.iml" filepath="$PROJECT_DIR$/SOLID/SRP/Before/SRPBefore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton DP/After/SingletonAfter.iml" filepath="$PROJECT_DIR$/Singleton DP/After/SingletonAfter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton DP/Before/SingletonBefore.iml" filepath="$PROJECT_DIR$/Singleton DP/Before/SingletonBefore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy DP/After/StrategyAfter.iml" filepath="$PROJECT_DIR$/Strategy DP/After/StrategyAfter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy DP/Before/StrategyBefore.iml" filepath="$PROJECT_DIR$/Strategy DP/Before/StrategyBefore.iml" />
+    </modules>
+  </component>
+</project>

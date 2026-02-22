@@ -1,8 +1,4 @@
 
-class SoftwareProject {
-    public String status = "Initial";
-}
-
 public class MainBad {
     public static void main(String[] args) throws InterruptedException {
         SoftwareProject project = new SoftwareProject();

@@ -1,0 +1,5 @@
+
+
+interface Video {
+    void play();
+}
